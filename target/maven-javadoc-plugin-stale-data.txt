@@ -1,0 +1,53 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/vagrant/estudiante/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/vagrant/estudiante/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'estudiante 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'estudiante 1.0-SNAPSHOT API'
+com.raqueltm
+/home/vagrant/estudiante/src/main/java = 1714375519081
+/home/vagrant/estudiante/target/site/apidocs/index-all.html = 1714730015678
+/home/vagrant/estudiante/target/site/apidocs/tag-search-index.js = 1714730015670
+/home/vagrant/estudiante/target/site/apidocs/constant-values.html = 1714375555462
+/home/vagrant/estudiante/target/site/apidocs/member-search-index.zip = 1714375555478
+/home/vagrant/estudiante/target/site/apidocs/help-doc.html = 1714730015682
+/home/vagrant/estudiante/target/site/apidocs/element-list = 1714730015614
+/home/vagrant/estudiante/target/site/apidocs/search.html = 1714730015678
+/home/vagrant/estudiante/target/site/apidocs/script.js = 1714730015682
+/home/vagrant/estudiante/target/site/apidocs/index.html = 1714730015678
+/home/vagrant/estudiante/target/site/apidocs/jquery-ui.overrides.css = 1714375555498
+/home/vagrant/estudiante/target/site/apidocs/deprecated-list.html = 1714375555486
+/home/vagrant/estudiante/target/site/apidocs/package-search-index.js = 1714730015670
+/home/vagrant/estudiante/target/site/apidocs/package-search-index.zip = 1714375555474
+/home/vagrant/estudiante/target/site/apidocs/allclasses-index.html = 1714730015666
+/home/vagrant/estudiante/target/site/apidocs/allpackages-index.html = 1714730015670
+/home/vagrant/estudiante/target/site/apidocs/search-page.js = 1714730015686
+/home/vagrant/estudiante/target/site/apidocs/stylesheet.css = 1714730015682
+/home/vagrant/estudiante/target/site/apidocs/link.svg = 1714730015682
+/home/vagrant/estudiante/target/site/apidocs/overview-tree.html = 1714730015654
+/home/vagrant/estudiante/target/site/apidocs/type-search-index.js = 1714730015670
+/home/vagrant/estudiante/target/site/apidocs/module-search-index.js = 1714730015670
+/home/vagrant/estudiante/target/site/apidocs/member-search-index.js = 1714730015670
+/home/vagrant/estudiante/target/site/apidocs/search.js = 1714730015686
+/home/vagrant/estudiante/target/site/apidocs/allclasses.html = 1714375555490
+/home/vagrant/estudiante/target/site/apidocs/javadoc.sh = 1714729841406
+/home/vagrant/estudiante/target/site/apidocs/copy.svg = 1714730015682
+/home/vagrant/estudiante/target/site/apidocs/type-search-index.zip = 1714375555478
