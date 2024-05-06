@@ -1,3 +1,11 @@
+/*
+Para saber la versión de java que tenemos: java --version
+sudo apt install openjdk-21-jdk //para instalar la versión 21 de java
+mvn javadoc:javadoc //para crear el html de la clase Estudiante del proyecto maven en el que estamos trabajando
+mvn test //hacer las pruebas de EstudianteTest para la clase Estudiante en este proyecto maven
+*/
+
+
 package com.raqueltm;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
